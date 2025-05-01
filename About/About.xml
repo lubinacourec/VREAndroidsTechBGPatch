@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>VREA Tech Background Patch</name>
 	<author>Marle</author>
-	<packageId>marlemmo.patches.vrea-ctbg</packageId>
+	<packageId>marlemmo.patches.vreactbg</packageId>
 	<supportedVersions>
 	  <li>1.5</li>
 	</supportedVersions>
