@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>VREA Tech Background Patch</name>
+	<author>Marle</author>
+	<packageId>marlemmo.patches.vrea-ctbg</packageId>
+	<supportedVersions>
+	  <li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>vanillaracesexpanded.android</packageId>
+			<displayName>Vanilla Races Expanded - Android</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2975771801</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>aossi.techbackground</packageId>
+			<displayName>Colonist Tech Background</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1264778930</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>
+Patches VRE Androids to allow Colonist Tech Background traits.
+	</description>
+	<loadAfter>
+		<li>vanillaracesexpanded.android</li>
+		<li>aossi.techbackground</li>
+	</loadAfter>
+	<incompatibleWith>
+		<li>ferny.progressionequipment</li>
+	</incompatibleWith>
+</ModMetaData>
